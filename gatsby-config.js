@@ -25,7 +25,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
+        name: `VDPinteractive`,
         short_name: `VDP`,
         description: `Digital Content Creators' Playground and Shelter for ICT + Art connect, STEAM, Creative and Cultural industry`,
         start_url: `/`,
