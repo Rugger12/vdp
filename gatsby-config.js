@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `VDPinteractive`,
     siteTitleAlt: `Vantage Digital Point`,
     siteHeadline: `VDP interactive`,
-    siteUrl: ``,
+    siteUrl: `http://www.vdpinteractive.com`,
     siteDescription: `Digital Content Creators' Playground and Shelter for ICT + Art connect, STEAM, Creative and Cultural industry`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
