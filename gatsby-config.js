@@ -29,7 +29,7 @@ module.exports = {
         short_name: `VDP`,
         description: `Digital Content Creators' Playground and Shelter for ICT + Art connect, STEAM, Creative and Cultural industry`,
         start_url: `/`,
-        background_color: `#fcee1f`,
+        background_color: `#141821`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#f6ad55`,
