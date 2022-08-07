@@ -3,9 +3,9 @@
   "name": "VDP",
   "description": "Digital Content Creators' Playground and Shelter for ICT + Art connect, STEAM education, Creative and Cultural industry",
   "version": "0.2.11",
-  "author": "Yonghyun Park <vdp@kakao.com>",
+  "author": "Yonghyun Park <yhpark@vdplabs.com>",
   "license": "0BSD",
-  "starter-name": "VDP interative",
+  "starter-name": "VDP Labs, Inc.",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
