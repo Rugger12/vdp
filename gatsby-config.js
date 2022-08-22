@@ -7,10 +7,10 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitle: `VDPinteractive`,
-    siteTitleAlt: `Vantage Digital Point`,
-    siteHeadline: `VDP interactive`,
-    siteUrl: `http://www.vdpinteractive.com`,
+    siteTitle: `VDP Labs, Inc.`,
+    siteTitleAlt: `VDP Labs, Inc.`,
+    siteHeadline: `VDP Labs, Inc.`,
+    siteUrl: `http://www.vdplabs.com`,
     siteDescription: `Digital Content Creators' Playground and Shelter for ICT + Art connect, STEAM, Creative and Cultural industry`,
     siteLanguage: `en`,
     siteImage: `/banner.png`,
